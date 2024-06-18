@@ -1,9 +1,10 @@
 # Express Server for Form Submissions
 This Repositry contains an server written in Typescript using Express.js to handle form submissions.
 
-
 ## Setup
 To run this server locally make sure to follow these steps : 
+
+Note : Make sure to clear the 'db.json' before you run the server initially :)
 
 1 . **Clone the repositry:**
 ```bash
